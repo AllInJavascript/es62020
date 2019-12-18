@@ -1,0 +1,17 @@
+{
+    "extends": "standard",
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true,
+        "node": true,
+        "commonjs": true
+      },
+      "globals":{
+        "document": true,
+        "localStorage": true,
+        "window": true
+      },
+    "rules": { 
+      //自定义规则
+    }
+}
