@@ -63,9 +63,9 @@ npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
     "babel-preset-es2015": "^6.24.1",
 
 ## 6 扩展、深入
-1. @babel/runtime 和 @babel/plugin-transform-runtime的作用和区别
-2. babel7其他依赖的作用
-3. 项目中使用jslint
-4. 项目传到git上去
-
+1. @babel/runtime 和 @babel/plugin-transform-runtime的作用和区别 【ok】
+2. babel7其他依赖的作用 【ok】
+3. 项目中使用eslint 【ok】
+4. 项目传到git上去 【ok】
+（详细见有道云笔记）
 
